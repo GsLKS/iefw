@@ -1,3 +1,7 @@
+![](https://img.shields.io/github/v/release/GsLKS/iefw?style=flat-square
+) ![](https://img.shields.io/github/license/GsLKS/iefw?style=flat-square
+) ![forks](https://img.shields.io/github/forks/GsLKS/iefw?style=flat-square
+)
 # IEFW - IECloud Framework
 
 Um Framework de upload de arquivos locais para a IECloud
